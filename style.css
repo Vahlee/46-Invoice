@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height:80vh;
+    background-color: cornsilk;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.container {
+    background-color: white;
+    text-align: center;
+    width:500px;
+    height: 650px;
+    color:grey;
+}
+img {
+    margin-top: 10%;
+}
+h5 {
+    color:black;
+    font-size: 1rem;
+}
+.date {
+    font-weight: bolder;
+}
+h3 {
+    font-size: 2rem;
+    margin-top: 5px;
+    color:black;
+}
+footer {
+    margin-top: 10%;
+    color: rgb(147, 147, 206);
+}
+a {
+    color:green;
+}
